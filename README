@@ -1,0 +1,9 @@
+== README
+
+Bug with Rubymine JUMP
+
+* Go to app/interactors/update_booking/notify.rb
+* Try to jump to Notify class
+* You will end up on notify class but from the CreateBooking namespace (app/interactors/create_booking/notify.rb)
+
+Screencast: http://cl.ly/1R2Y0h2z2b02
